@@ -3,4 +3,4 @@ metting as I have exchanged the figure for both African(AFR) and South Easia(SAS
 code that I have Used. Based on what I promised for you I did all the reqiured things, I found the same result for the figure after re-running the code, but I treid a bit to modify for 
 the theory what I was wrote previously.
 
-for more clarification here is aslo the results of this code for all populations attached below:
+For more clarification you can find the pdf file attached which is the results of this code for all populations.
